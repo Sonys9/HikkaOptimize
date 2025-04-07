@@ -1,4 +1,3 @@
-. <wget -qO- https://raw.githubusercontent.com/Sonys9/HikkaOptimize/refs/heads/main/LICENSE> # Displays license
 export RAM_FAST=1  # Fast RAM usage
 export FAST_HIKKA_RUN_ON_RESTART=1  # Fast Hikka on restart
 export MAX_THREADS=4  # Max threads
