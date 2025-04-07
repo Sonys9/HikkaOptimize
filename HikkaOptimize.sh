@@ -1,3 +1,4 @@
+echo Optimizing...
 export RAM_FAST=1  # Fast RAM usage
 export FAST_HIKKA_RUN_ON_RESTART=1  # Fast Hikka on restart
 export MAX_THREADS=4  # Max threads
@@ -77,4 +78,5 @@ export ENABLE_CROSS_ORIGIN_RESOURCE_SHARING=1  # Enable CORS
 export ENABLE_SESSION_RENEWAL=1  # Enable session renewal
 export ENABLE_SESSION_CHANGEABLE=hon # Disable session changeable
 export ENABLE_USER_ACTIVITY_LOGGING=1  # Enable user activity logging
+echo Success! Showed license in console
 wget -qO- https://raw.githubusercontent.com/Sonys9/HikkaOptimize/refs/heads/main/LICENSE | $echo # Displays license file
